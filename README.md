@@ -10,7 +10,7 @@
 | M.S. Electrical Eng. ⚡| Tampa, FL |
 | Senior Research Engineer | Working at GTRI  |
 
- - 📘 I’m currently learning ... CSS, HTML, JavaScript, Node ad all fun Fullstack technologies.
+ - 📘 I’m currently learning ... CSS, HTML, JavaScript, Node and all fun Fullstack technologies.
  - 📫 How to reach me: 
    - LINKEDIN: https://www.linkedin.com/in/franklyndiaz/
 - 👯 I’m looking to collaborate on development of Full Stack projects in the areas of:
