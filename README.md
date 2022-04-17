@@ -8,7 +8,7 @@
 |Born in Dominican Republic| Love traveling✈️,the beach⛱️|
 | B.S. Electronics Eng. :electron: | D.R.🏠  |
 | M.S. Electrical Eng. ⚡| Tampa, FL |
-| Senior Research Engineer | Working at GTRI  |
+| Principal Software Engineer | Working at Raytheon Missiles and Defense |
 
  - 📘 I’m currently learning ... CSS, HTML, JavaScript, Node and all fun Fullstack technologies.
  - 📫 How to reach me: 
