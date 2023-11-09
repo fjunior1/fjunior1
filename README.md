@@ -1,16 +1,16 @@
-# Hi everyone 👋
-
 # Franklyn Diaz Profile 
 
+## Looking for Manager / VP role  Areas: Tech, Military, Financial markets  
 
 | Interesting |  Notes |
 | --- | --- |
-|Born in Dominican Republic| Love traveling✈️,the beach⛱️|
-| B.S. Electronics Eng. :electron: | D.R.🏠  |
-| M.S. Electrical Eng. ⚡| Tampa, FL |
-| Principal Software Engineer | Working at Raytheon Missiles and Defense |
+|Born in Dominican Republic| Love traveling✈️,the beach⛱️, culture|
+| B.S. Electronics Eng. :electron: | Tampa, FL / D.R.🏠  |
+| M.S. Electrical Eng. ⚡| Working towards M.S. Computer Science (Grad. 2024)  |
+| Principal Software Engineer | Working at Collins Aerospace |
+| Looking for Manager / VP role| Areas: Tech, Military, Financial markets  |
 
- - 📘 I’m currently learning ... CSS, HTML, JavaScript, Node and all fun Fullstack technologies.
+ - 📘 I’m currently practicing ... SpringBoot, REACT, CSS, HTML, JavaScript, Node and all fun Fullstack technologies.
  - 📫 How to reach me: 
    - LINKEDIN: https://www.linkedin.com/in/franklyndiaz/
 - 👯 I’m looking to collaborate on development of Full Stack projects in the areas of:
