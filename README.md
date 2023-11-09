@@ -8,7 +8,6 @@
 | B.S. Electronics Eng. :electron: | Tampa, FL / D.R.🏠  |
 | M.S. Electrical Eng. ⚡| Working towards M.S. Computer Science (Grad. 2024)  |
 | Principal Software Engineer | Working at Collins Aerospace |
-| Looking for Manager / VP role| Areas: Tech, Military, Financial markets  |
 
  - 📘 I’m currently practicing ... SpringBoot, REACT, CSS, HTML, JavaScript, Node and all fun Fullstack technologies.
  - 📫 How to reach me: 
